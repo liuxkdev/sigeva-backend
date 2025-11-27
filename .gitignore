@@ -1,14 +1,6 @@
-# Node modules
 node_modules/
-
-# Environment variables
 .env
-
-# Logs
 logs/
 *.log
-npm-debug.log*
-
-# Editor files
 .vscode/
 .DS_Store
